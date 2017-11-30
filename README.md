@@ -1,2 +1,3 @@
-# jd-reg
-joint-density regression
+# Joint-Density Regression
+
+See example* files.
